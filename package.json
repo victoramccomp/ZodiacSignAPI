@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/victoramccomp/ZodiacSignAPI#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
+    "nodemon": "^1.18.4"
   }
 }
